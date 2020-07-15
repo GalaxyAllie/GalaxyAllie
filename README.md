@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Allie and I work on support things at GitHub. In my free time, I love making cute and glittery things, with lots of LEDs and 🧜‍♀️s and 🦄s!
+
 <!--
 **GalaxyAllie/GalaxyAllie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
