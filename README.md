@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Allie! 🧜‍♀️
 
 I'm Allie and I work on support things at GitHub. In my free time, I love making cute and glittery things, with lots of LEDs and 🧜‍♀️s and 🦄s!
 
