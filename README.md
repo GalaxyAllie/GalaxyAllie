@@ -1,6 +1,6 @@
 ### Hi, I'm Allie! 🧜‍♀️
 
-I'm Allie (she/her or they/them) and I work on support things at GitHub. In my free time, I love making cute and glittery things, with lots of LEDs and 🧜‍♀️s and 🦄s! Currently, I'm working on learning Ruby as well as continuing my learning journey with microcontrollers. TI-RTOS is one of my next planned learning projects.
+I'm Allie (she/her or ze/zir) and I work on support things at GitHub. In my free time, I love making cute and glittery things, with lots of LEDs and 🧜‍♀️s and 🦄s! Currently, I'm working on learning Ruby as well as continuing my learning journey with microcontrollers. TI-RTOS is one of my next planned learning projects.
 
 I like mobile network and information security stuff as well, and in my spare time I'm also learning about IoT stuffs.
 
