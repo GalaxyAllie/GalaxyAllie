@@ -2,7 +2,7 @@
 
 I'm Allie (she/her or ze/zir) and I work on support things at GitHub. In my free time, I love making cute and glittery things, with lots of LEDs and 🧜‍♀️s and 🦄s! Currently, I'm working on learning Ruby as well as continuing my learning journey with microcontrollers. TI-RTOS is one of my next planned learning projects.
 
-I like mobile network and information security stuff as well, and in my spare time I'm also learning about IoT stuffs.
+I like mobile network and information security stuff as well, and in my spare time I'm also learning about IoT devices and systems. I'm also passionate about making technology work for all - as we move forward in technological progress, we need to be sure no one is left out.
 
 <!--
 **GalaxyAllie/GalaxyAllie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
